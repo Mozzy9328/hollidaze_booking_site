@@ -1,0 +1,24 @@
+.ad {
+    border: 1px solid #ccc;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.row { padding: 5px }
+
+img {
+    border: 1px solid #bbb;
+    border-radius: 8px;
+}
+
+.right { text-align: right }
+
+.badge {
+    color: white;
+    background-color: green;
+}
+
+span {
+    font-weight: 700;
+    padding: 3px;
+}
