@@ -1,17 +1,8 @@
 # Hollidaze
 
+![image](https://github.com/Mozzy9328/hollidaze_booking_site/blob/main/app/public/Hollidaze.png)
+
 A local tourism agency in Bergen is launching a new website called ‘Holidaze’ for visitors to the area to be able to find hotels, B&Bs and guesthouses, and for the accommodation owners to receive enquiries.
-
-Admin Credentials:
-username: Mustafa
-password: 1230
-
-API End Points:
-https://hollidaze.herokuapp.com/hotels
-
-https://hollidaze.herokuapp.com/enquiries
-
-https://hollidaze.herokuapp.com/contactMessages
 
 ## Goal
 
@@ -21,6 +12,8 @@ To take the skills learned over the last two years and take on an extensive proj
 
 ### Visitor Side
 
+A place where users can come and look for their new accomadations.
+
 - Homepage
 - Search bar typeahead (auto dropdown with hotel names that match what has been typed)
 - A results page with all hotels
@@ -29,6 +22,12 @@ To take the skills learned over the last two years and take on an extensive proj
 - A contact page (different to enquiry page) which goes to the admin for Holidaze
 
 ### Admin side
+
+A place for admin to do their neccessary work for their website.
+
+Admin Credentials:
+username: Mustafa
+password: 1230
 
 - A login section that makes use of JWT tokens
 - List of enquiries and new enquiries appear when user submits the form on the enquiry page
