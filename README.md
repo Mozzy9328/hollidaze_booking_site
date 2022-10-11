@@ -36,8 +36,6 @@ password: 1230
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
 - [MongoDB] (https://www.mongodb.com/)
